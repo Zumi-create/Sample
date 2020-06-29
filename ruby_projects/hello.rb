@@ -40,3 +40,4 @@ p fruits[:price]
 p "りんごkokobjsdncuiweh".length
 p fruits.length
 p array.length
+p yhijk
